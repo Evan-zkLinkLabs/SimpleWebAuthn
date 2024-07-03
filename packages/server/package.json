@@ -15,5 +15,8 @@
       }
     }
   },
-  "gitHead": "ba039fdd5fdff87f78d3bd246e9bea5f7aa39ccb"
+  "gitHead": "ba039fdd5fdff87f78d3bd246e9bea5f7aa39ccb",
+  "dependencies": {
+    "elliptic": "^6.5.5"
+  }
 }
